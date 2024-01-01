@@ -1,0 +1,16 @@
+{
+  "name": "pathfinder",
+  "version": "1.0.0",
+  "description": "The answer to the age-old question 'what is the most optimal path?' has finally been solved. This is a tool that uses the Google Maps API to help determine the quickest or the shortest path between destinations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michatran4",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.7.0",
+    "terminal-kit": "^3.0.1"
+  }
+}
